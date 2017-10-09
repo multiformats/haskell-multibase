@@ -4,7 +4,7 @@ Cabal package name: Multibases
 
 WARNING : This package is NOT stable or complete yet.
 
-TODO : fix errors concerning the built and installed cabal package.
+TODO : fix base 58 and 10 encodings
 
 to build the downloaded package :
 
