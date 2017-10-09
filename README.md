@@ -1,5 +1,7 @@
 # haskell-multibase
 
+Cabal package name: Multibases
+
 WARNING : This package is NOT stable or complete yet.
 
 to build the downloaded package :
