@@ -27,19 +27,19 @@ which detects automatically the base which was used for the multiEncode
 
 Supported bases so far:
 
-"baseid"
-"base1"
-"base2"
-"base8"
-"base10" (to come)
-"base16"
-"base32"
-"base32hex"
-"base32z"
-"base58flickr" (to come)
-"base58btc" (tocome)
-"base64"
-"base64url"
+"baseid" 
+"base1" 
+"base2" 
+"base8" 
+"base10" (to come) 
+"base16" 
+"base32" 
+"base32hex" 
+"base32z" 
+"base58flickr" (to come) 
+"base58btc" (to come) 
+"base64" 
+"base64url" 
 
 see https://github.com/multiformats/multibase/blob/master/README.md for more informations on the project itself.
 
