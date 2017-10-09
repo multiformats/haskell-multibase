@@ -54,7 +54,7 @@ library
   exposed-modules:     Multibase
   
   -- Modules included in this library but not exported.
-other-modules: Encode, Data       
+  --other-modules:       
   
   -- LANGUAGE extensions used by modules in this package.
   -- other-extensions:    
