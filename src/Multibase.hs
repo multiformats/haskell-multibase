@@ -2,9 +2,6 @@ module Multibase (multiEncode,
                        multiDecode
                       )where
 
-
-
-import System.Environment
 import Data
 import Encode
 import Data.Char (toLower)
