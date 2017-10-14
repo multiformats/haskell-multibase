@@ -4,8 +4,6 @@ Cabal library name: Multibases
 
 WARNING : This package is not complete yet.
 
-TODO : finnish implementing base 58 and 10 encodings
-
 to build the downloaded package :
 
 cd to the extracted package directory
