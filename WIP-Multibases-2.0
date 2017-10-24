@@ -5,5 +5,6 @@ Base1 encoding and decoding updated, this time it only encodes Word8 per Word8 f
 Base2 encoding updated.
 Main integer encoding function for other bases finnished.
 Main Word8List-to-Integer function finnished.
+rewrote a lot of stuff, all base conversions are now supported by the same function, todo: testing, padding, multibase type
 
 
