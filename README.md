@@ -23,7 +23,7 @@ This library exports the Multibase module which comes with five functions:
       multiEncode :: String -> Data.ByteString.ByteString -> Bool ->  Data.ByteString.ByteString 
      
       -- takes a base encoding and a byteString and returns the encoded byteString with its base prefix
-      -- Bool is the padding flag (works only for bases for which padding is standardized)
+      -- Bool is the padding flag (makes a difference only for bases for which padding is standardized)
       
       decodeByteString :: Data.ByteString.ByteString -> Data.ByteString.ByteString 
      
