@@ -43,10 +43,6 @@ String can be : "base id" , "base 2" , "base 8" , "base 10" , "base16" , "base 3
 
 Please check [multibase](https://github.com/multiformats/multibase/) readme for more information.
 
-## Maintainers
-
-[@Unlambder](https://github.com/Unlambder)
-
 ## License 
 
 [MIT](LICENSE) © 2017 multiformats
