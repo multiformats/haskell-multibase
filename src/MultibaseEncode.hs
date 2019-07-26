@@ -3,7 +3,6 @@ module MultibaseEncode(
                  decodeByteString,
                  word8Range,
                  baseid,
-                 base1,
                  base2,
                  base8,
                  base10,
@@ -116,8 +115,6 @@ bNumToBlO  =  Map.fromList [(16,2),(32,8),(64,4),(128,8)]
 ---- bytesets ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 baseid = word8Range
-
-base1 = BStr.pack [49]
 
 base2 = BStr.pack [48,49]
 
